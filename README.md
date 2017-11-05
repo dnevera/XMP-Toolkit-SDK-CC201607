@@ -1,6 +1,6 @@
 # XMP-Toolkit-SDK-CC201607
 
-# Porting ditails 
+# Porting details 
 
 https://forums.adobe.com/thread/2393377
 

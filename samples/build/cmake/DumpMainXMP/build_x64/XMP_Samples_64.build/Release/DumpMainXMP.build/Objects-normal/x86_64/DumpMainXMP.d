@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/source/DumpMainXMP.cpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMP.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMP_Environment.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMP_Version.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMP_Const.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/TXMPMeta.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCore/XMPCoreDefines.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCommon/XMPCommonDefines.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCore/XMPCoreFwdDeclarations.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCommon/XMPCommonFwdDeclarations.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCommon/XMPCommonLatestInterfaceVersions.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCore/XMPCoreLatestInterfaceVersions.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/TXMPIterator.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/client-glue/WXMPIterator.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/client-glue/WXMP_Common.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/TXMPUtils.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/TXMPFiles.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMP_IO.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMP.incl_cpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/client-glue/TXMPMeta.incl_cpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/client-glue/WXMPMeta.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCore/Interfaces/IMetadata.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCore/Interfaces/IStructureNode.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCore/Interfaces/ICompositeNode.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCore/Interfaces/INode.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCommon/Interfaces/BaseInterfaces/ISharedObject.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCommon/Interfaces/BaseInterfaces/IVersionable.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCommon/Interfaces/BaseInterfaces/IThreadSafe.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCore/Interfaces/ICoreObjectFactory.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/XMPCommon/Interfaces/IObjectFactory.h \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/client-glue/TXMPIterator.incl_cpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/client-glue/TXMPUtils.incl_cpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/client-glue/WXMPUtils.hpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/client-glue/TXMPFiles.incl_cpp \
+  /Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/samples/build/cmake/../../../public/include/client-glue/WXMPFiles.hpp

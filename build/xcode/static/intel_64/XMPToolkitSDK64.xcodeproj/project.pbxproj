@@ -2180,7 +2180,7 @@
 					"'XMP_COMPONENT_INT_NAMESPACE=AdobeXMPCore_Int'",
 					"'BUILDING_XMPCORE_AS_STATIC=1'",
 				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				HEADER_SEARCH_PATHS = (
 					"/Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/XMPCore/build/../..",
 					"/Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/XMPCore/build/../../public/include",
@@ -2235,7 +2235,7 @@
 		95B613B46DE14654AB7D9E18 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
@@ -2256,15 +2256,19 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_SHADOW = NO;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 				SYMROOT = "/Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/build/xcode/static/intel_64/build";
@@ -2326,7 +2330,7 @@
 		B284CEB7695A43288B6892A8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
@@ -2346,15 +2350,19 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_SHADOW = NO;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				SDKROOT = macosx;
 				SYMROOT = "/Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/build/xcode/static/intel_64/build";
 			};
@@ -2385,7 +2393,7 @@
 					"'XMP_COMPONENT_INT_NAMESPACE=AdobeXMPCore_Int'",
 					"'BUILDING_XMPCORE_AS_STATIC=1'",
 				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				HEADER_SEARCH_PATHS = (
 					"/Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/XMPCore/build/../..",
 					"/Users/denn/Development/Dehancer/Tools/XMP-Toolkit-SDK-CC201607/XMPCore/build/../../public/include",
@@ -2549,7 +2557,7 @@
 				CC6ABB2CB7924CB087B3D70B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Debug;
+			defaultConfigurationName = Release;
 		};
 		87C15ADC123B451FAE800D8A /* Build configuration list for PBXNativeTarget "XMPFilesStatic" */ = {
 			isa = XCConfigurationList;
@@ -2558,7 +2566,7 @@
 				5913FD53DBD3472B92591355 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Debug;
+			defaultConfigurationName = Release;
 		};
 		8A22E7371BA54495A6D70C75 /* Build configuration list for PBXProject "XMPToolkitSDK64" */ = {
 			isa = XCConfigurationList;
@@ -2567,7 +2575,7 @@
 				B284CEB7695A43288B6892A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Debug;
+			defaultConfigurationName = Release;
 		};
 		CDB561280AF043A09D42CB24 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
 			isa = XCConfigurationList;
@@ -2576,7 +2584,7 @@
 				FB17B610BFED42D1A3106A09 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Debug;
+			defaultConfigurationName = Release;
 		};
 		E5630CDC5DC84981B095F55B /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
 			isa = XCConfigurationList;
@@ -2585,7 +2593,7 @@
 				AB4537E3BF474B0F88F10B23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Debug;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
